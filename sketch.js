@@ -27,7 +27,7 @@ function preload() {
       "https://as2.ftcdn.net/v2/jpg/02/24/14/81/1000_F_224148194_xrGaLP6RZbCL7B3vOMYYr2dVrcg95RFt.jpg"
     );
     imgVenus = loadImage(
-      "https://2.bp.blogspot.com/-bhTykl9S0wE/U31GZGl1riI/AAAAAAAACdc/DkN300rzfvo/s1600/radar_backscatter_venus.jpg"
+      "https://www.centraldatacore.com/wp-content/uploads/00A-BG-PT2-Venus.jpg"
     );
     imgMercury = loadImage(
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Solarsystemscope_texture_2k_mercury.jpg/640px-Solarsystemscope_texture_2k_mercury.jpg"
